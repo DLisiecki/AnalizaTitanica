@@ -1,7 +1,8 @@
 # AnalizaTitanica
 Zadanie zaliczeniiowe na przedmiot Programowanie_w_Pythonie
 
-Program zawiera 5 histogramów do wyświetlenia, które można wybrać z programu konsolowego TitanicCLI.py.
+Program zawiera 5 histogramów do wyświetlenia, które można wybrać poprzez uruchomienie programu konsolowego TitanicCLI.py.
+Plik TitanicData.py jest odpowiedzialny na przechowanie klasy DataExplorer wraz z wszystkimi metodami pokazującymi dane.
 
 # Liczba ofiar podzielona na płeć
 ![image](https://user-images.githubusercontent.com/123461439/214912780-d00bf3fc-5e98-4adc-a339-09223e036866.png)
