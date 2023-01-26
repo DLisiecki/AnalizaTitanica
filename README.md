@@ -6,13 +6,14 @@ Program zawiera 5 histogramów do wyświetlenia, które można wybrać poprzez u
 Plik TitanicData.py jest odpowiedzialny na przechowanie klasy DataExplorer wraz z wszystkimi metodami pokazującymi dane.
 
 # Liczba ofiar podzielona na płeć
-![image](https://user-images.githubusercontent.com/123461439/214912780-d00bf3fc-5e98-4adc-a339-09223e036866.png)
+![image](https://user-images.githubusercontent.com/123461439/214923381-5cd37aef-823e-4a8b-ade6-51e0a70b0671.png)
 
 # Wiek ofiar Mężczyzn i Kobiet
-![image](https://user-images.githubusercontent.com/123461439/214913270-4344237a-e8ee-484c-8019-667c2c62c3ad.png)
+![image](https://user-images.githubusercontent.com/123461439/214925922-22dcc920-85d4-43c7-9a42-c57db0a5cc95.png)
+
 
 # Szansa na przeżycie w % u Mężczyzn i Kobiet
-![image](https://user-images.githubusercontent.com/123461439/214913526-57e92500-c750-4119-885e-3a2453cde67b.png)
+![image](https://user-images.githubusercontent.com/123461439/214926110-5c5cc91b-cec8-468b-95c0-c0cb7ff2a43c.png)
 
 # Szansa na przeżycie Mężczyźni ,a Kobiety
 ![image](https://user-images.githubusercontent.com/123461439/214913780-9b25abc6-48a1-40bc-9c35-6290693d28cf.png)
