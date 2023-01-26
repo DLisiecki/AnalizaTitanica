@@ -1,5 +1,5 @@
 # AnalizaTitanica
-Zadanie na przedmiot na studia programowanie w Pythonie
+Zadanie zaliczeniiowe na przedmiot Programowanie_w_Pythonie
 
 Program zawiera 5 histogramów do wyświetlenia, które można wybrać z programu konsolowego TitanicCLI.py.
 
