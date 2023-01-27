@@ -21,3 +21,6 @@ Plik TitanicData.py jest odpowiedzialny na przechowanie klasy DataExplorer wraz 
 # Szanse na przeżycie z uwzględnieniem klasy biletu
 ![image](https://user-images.githubusercontent.com/123461439/214913888-ffab81fe-aed4-41b8-84ff-a060816293db.png)
 
+# Liczba ofiar vs ocalałych
+![image](https://user-images.githubusercontent.com/123461439/215102038-c3f1930e-6549-4ea2-9734-1a7f6b559b8e.png)
+
