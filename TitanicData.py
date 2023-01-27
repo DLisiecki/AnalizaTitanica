@@ -92,7 +92,7 @@ class DataExplorer:
         plt.show()
 
     def show_survival_rate(self):
-        # Wyświetla liczbę ocalałych vs ofiar w wykresie kołowym
+        # Wyświetla w % liczbę ocalałych vs ofiar w wykresie kołowym
 
         data_by_survival = self.data.groupby("Survived")
         data_by_survival_count = data_by_survival["PassengerId"].count()
